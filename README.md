@@ -6,3 +6,8 @@ Student ID : 69219010002
 - Programmer
 - Database
 - Network
+
+# My Favorite
+- Anime
+- Oat Milk
+- Coffee
